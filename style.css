@@ -1,0 +1,14 @@
+
+.index {background-image: url(lol.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: 100% 100%;
+float:inline-start;}
+
+
+.fatpic{
+    float: right;
+}
+
+.animals{ text-align: center;
+font-size: larger;}
